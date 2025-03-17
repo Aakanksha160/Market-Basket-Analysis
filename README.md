@@ -44,4 +44,4 @@ This project performs Market Basket Analysis on retail transaction data to uncov
 ## Getting Started
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/market-basket-analysis.git
+   git clone https://github.com/Aakanksha160/Market-Basket-Analysis.git
